@@ -9,8 +9,7 @@ sidebar:
 ## Ana kaynaklar
 
 - *İnancın Gölgesinde*, M. Fethullah Gülen (Nil Yayınları): programın ana kaynağı.
-- *Öğretmenin Not Defteri 1-2-3*, Vehbi Vakkasoğlu (Cihan Yayınları): haftalık okuma ödevlerinde kullanılır.
-- okumazamani.de
+
 
 ## Kaynak gösterme ilkesi
 
