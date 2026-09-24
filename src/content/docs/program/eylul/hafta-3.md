@@ -8,7 +8,7 @@ sidebar:
   label: "3. Hafta: Şefkat–Merhamet ve Rızık – Yardımlaşma – Temizlik Delilleri"
   order: 3
 ---
-
+</details>
 
 ## Ders amacı
 
