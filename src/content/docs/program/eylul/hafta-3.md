@@ -63,11 +63,12 @@ Bir Yaratıcının var etmesi.
 
 Bu bilginin doğuştan ilham edildiğini (sevk-i ilahi).
 
-</details>
+
 
 **S3.** Şefkat-rızık delili ne anlatır?
 
----
+</details>
+
 ## 📄 Veli / Anlatıcı Dökümanı: Detaylı Ders Planı
 description: "Bir bebeğin ihtiyacının tam zamanında karşılanması, doğadaki yardımlaşma ve kâinattaki temizlenme-yenilenme süreçleri; Şefkat, Hikmet ve Kuddûs isimlerine işaret eder."
 etiket: "1. Ay (Eylül) · 3. Hafta"
