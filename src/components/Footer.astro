@@ -1,0 +1,40 @@
+---
+import Default from '@astrojs/starlight/components/Footer.astro';
+---
+
+<Default {...Astro.props}><slot /></Default>
+
+<nav class="alt-baglantilar" aria-label="Site bilgileri">
+  <a href="/hakkinda/">Site hakkında</a>
+  <a href="/kaynaklar/">Kaynaklar</a>
+  <a href="/gizlilik/">Gizlilik</a>
+</nav>
+
+<p class="kaynak-notu">
+  <strong>Kaynak:</strong> <em>İnancın Gölgesinde</em> (M. F. Gülen, Nil Yayınları) ·
+  <em>Öğretmenin Not Defteri 1-2-3</em> (V. Vakkasoğlu, Cihan Yayınları) · okumazamani.de.
+  Ders özetleri, etkinlikler, sınavlar ve ödül-ceza sistemi bu program için özgün olarak yazılmıştır.
+</p>
+
+<style>
+  .alt-baglantilar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 1.25rem;
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--sl-color-hairline);
+    font-size: var(--sl-text-sm);
+  }
+  .alt-baglantilar a {
+    color: var(--sl-color-text-accent);
+    text-decoration-color: var(--tema-altin);
+    text-underline-offset: 0.2em;
+  }
+  .kaynak-notu {
+    margin-top: 0.9rem;
+    font-size: var(--sl-text-sm);
+    color: var(--sl-color-gray-3);
+    line-height: 1.6;
+  }
+</style>

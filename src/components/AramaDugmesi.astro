@@ -1,0 +1,44 @@
+---
+// Ana sayfadaki "Programda ara" düğmesi: üstteki Starlight aramasını açar.
+// (Arama bileşeni bir sayfada yalnızca bir kez bulunabildiği için ikinci kopya konmaz.)
+---
+
+<button type="button" class="arama-dugmesi" data-ana-arama>
+  <svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+    <circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path>
+  </svg>
+  <span>Programda ara</span>
+</button>
+
+<script>
+  document.querySelector('[data-ana-arama]')?.addEventListener('click', (olay) => {
+    // Tıklama yukarı yayılırsa Starlight "pencere dışına tıklandı" sanıp aramayı kapatır.
+    olay.stopPropagation();
+    (document.querySelector('site-search button[data-open-modal]') as HTMLButtonElement | null)?.click();
+  });
+</script>
+
+<style>
+  .arama-dugmesi {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    width: 100%;
+    max-width: 28rem;
+    margin: 1.5rem 0 0.5rem;
+    padding: 0.7rem 1rem;
+    font: inherit;
+    font-size: var(--sl-text-base);
+    color: var(--sl-color-gray-3);
+    background: var(--sl-color-gray-7);
+    border: 1px solid var(--sl-color-gray-5);
+    border-radius: 0.5rem;
+    cursor: pointer;
+    text-align: left;
+  }
+  .arama-dugmesi:hover { border-color: var(--tema-altin); }
+  .arama-dugmesi:focus-visible {
+    outline: 2px solid var(--sl-color-accent);
+    outline-offset: 2px;
+  }
+</style>

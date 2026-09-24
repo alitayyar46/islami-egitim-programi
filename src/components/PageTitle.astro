@@ -1,0 +1,38 @@
+---
+import Default from '@astrojs/starlight/components/PageTitle.astro';
+
+const { entry } = Astro.locals.starlightRoute;
+const d = entry.data;
+
+// Okuma süresi: sayfa metninden otomatik hesaplanır (dakikada ~200 kelime).
+const govde = entry.body ?? '';
+const kelime = govde
+  .replace(/<[^>]+>/g, ' ')
+  .split(/\s+/)
+  .filter((k) => /\p{L}/u.test(k)).length;
+const dakika = Math.max(1, Math.round(kelime / 200));
+const sureGoster = !d.taslak && kelime >= 300;
+
+const tarih =
+  d.lastUpdated instanceof Date
+    ? new Intl.DateTimeFormat('tr-TR', { month: 'long', year: 'numeric', timeZone: 'UTC' }).format(d.lastUpdated)
+    : null;
+
+const parcalar: string[] = [];
+if (d.etiket) parcalar.push(d.etiket);
+if (d.konu) parcalar.push(`Konu: ${d.konu}`, 'Yaş grubu: 11–15');
+if (sureGoster) parcalar.push(`Okuma süresi: yaklaşık ${dakika} dk`);
+if (tarih) parcalar.push(`Son güncelleme: ${tarih}`);
+---
+
+<Default {...Astro.props}><slot /></Default>
+{parcalar.length > 0 && <p class="bilgi-satiri">{parcalar.join(' · ')}</p>}
+
+<style>
+  .bilgi-satiri {
+    margin: 0.6rem 0 0;
+    font-size: var(--sl-text-sm);
+    line-height: 1.5;
+    color: var(--sl-color-gray-3);
+  }
+</style>

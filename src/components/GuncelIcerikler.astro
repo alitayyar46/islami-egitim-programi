@@ -1,0 +1,71 @@
+---
+// Son eklenen/güncellenen dersleri listeler. Tarih, sayfanın
+// frontmatter'ındaki "lastUpdated" satırından okunur.
+import { getCollection } from 'astro:content';
+import { aylar } from '../aylar.mjs';
+
+const docs = await getCollection('docs');
+const norm = (id: string) => id.replace(/\/index$/, '');
+const sira = (id: string) => {
+  const [, ay, hafta] = norm(id).split('/');
+  const a = aylar.findIndex(([dir]) => dir === ay);
+  const h = Number(/(\d+)/.exec(hafta ?? '')?.[1] ?? 0);
+  return a * 100 + h;
+};
+
+const liste = docs
+  .filter(
+    (d) =>
+      d.data.lastUpdated instanceof Date &&
+      !d.data.taslak &&
+      /^program\/[^/]+\/hafta-\d+$/.test(norm(d.id)),
+  )
+  .sort(
+    (a, b) =>
+      (b.data.lastUpdated as Date).getTime() - (a.data.lastUpdated as Date).getTime() ||
+      sira(b.id) - sira(a.id),
+  )
+  .slice(0, 6);
+
+const bicim = new Intl.DateTimeFormat('tr-TR', { dateStyle: 'long', timeZone: 'UTC' });
+---
+
+<ul class="guncel not-content">
+  {
+    liste.map((d) => (
+      <li>
+        <a href={`/${norm(d.id)}/`}>{d.data.title}</a>
+        <span class="alt">
+          {d.data.etiket} · {bicim.format(d.data.lastUpdated as Date)}
+        </span>
+      </li>
+    ))
+  }
+</ul>
+
+<style>
+  .guncel {
+    list-style: none;
+    margin: 1rem 0 0;
+    padding: 0;
+  }
+  .guncel li {
+    padding: 0.7rem 0;
+    border-bottom: 1px solid var(--sl-color-hairline);
+  }
+  .guncel a {
+    font-family: var(--tema-baslik);
+    font-weight: 600;
+    font-size: 1.05rem;
+    color: var(--sl-color-text-accent);
+    text-decoration-color: var(--tema-altin);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.2em;
+  }
+  .alt {
+    display: block;
+    margin-top: 0.2rem;
+    font-size: var(--sl-text-sm);
+    color: var(--sl-color-gray-3);
+  }
+</style>

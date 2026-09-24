@@ -1,0 +1,108 @@
+---
+// Programdaki ayları, hazır/hazırlanıyor durumlarıyla listeler.
+// Durum, ay sayfasının frontmatter'ındaki "taslak: true" satırından okunur;
+// yani takvimi elle güncellemeye gerek kalmaz.
+import { getCollection } from 'astro:content';
+import { aylar } from '../aylar.mjs';
+
+const { detay = false } = Astro.props;
+const docs = await getCollection('docs');
+const norm = (id: string) => id.replace(/\/index$/, '');
+
+const girdiler = aylar.map(([dir, kisa]) => {
+  const ay = docs.find((d) => norm(d.id) === `program/${dir}`);
+  const haftalar = docs
+    .filter((d) => norm(d.id).startsWith(`program/${dir}/`))
+    .sort((a, b) => (a.data.sidebar?.order ?? 0) - (b.data.sidebar?.order ?? 0));
+  return { dir, kisa, ay, haftalar, hazir: ay ? !ay.data.taslak : false };
+});
+---
+
+<ol class="ay-listesi not-content">
+  {
+    girdiler.map(({ dir, kisa, ay, haftalar, hazir }) => (
+      <li>
+        <div class="satir">
+          <a class="ay-adi" href={`/program/${dir}/`}>{kisa}</a>
+          <span class:list={['durum', hazir ? 'hazir' : 'taslak']}>{hazir ? 'Hazır' : 'Hazırlanıyor'}</span>
+        </div>
+        {ay?.data.konu && <p class="konu">{ay.data.konu}</p>}
+        {detay && (
+          <ul class="haftalar">
+            {haftalar.map((h) => (
+              <li>
+                <a href={`/${norm(h.id)}/`}>{h.data.sidebar?.label ?? h.data.title}</a>
+                {h.data.taslak && <span class="mini">taslak</span>}
+              </li>
+            ))}
+          </ul>
+        )}
+      </li>
+    ))
+  }
+</ol>
+
+<style>
+  .ay-listesi {
+    list-style: none;
+    margin: 1rem 0 0;
+    padding: 0;
+    display: grid;
+    gap: 0.75rem;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 17rem), 1fr));
+  }
+  .ay-listesi > li {
+    padding: 0.85rem 1rem;
+    border: 1px solid var(--sl-color-hairline);
+    border-radius: 0.5rem;
+    background: var(--sl-color-gray-7);
+  }
+  .satir {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.75rem;
+  }
+  .ay-adi {
+    font-family: var(--tema-baslik);
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: var(--sl-color-text-accent);
+    text-decoration-color: var(--tema-altin);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.2em;
+  }
+  .durum {
+    flex: none;
+    font-size: var(--sl-text-xs);
+    font-weight: 600;
+    padding: 0.1rem 0.5rem;
+    border-radius: 999px;
+    border: 1px solid currentColor;
+  }
+  .durum.hazir { color: var(--sl-color-text-accent); }
+  .durum.taslak { color: var(--sl-color-gray-3); }
+  .konu {
+    margin: 0.35rem 0 0;
+    font-size: var(--sl-text-sm);
+    color: var(--sl-color-gray-3);
+    line-height: 1.5;
+  }
+  .haftalar {
+    margin: 0.6rem 0 0;
+    padding-left: 1.1rem;
+    font-size: var(--sl-text-sm);
+    line-height: 1.5;
+  }
+  .haftalar li { margin: 0.25rem 0; }
+  .haftalar a {
+    color: var(--sl-color-text);
+    text-decoration-color: var(--sl-color-gray-4);
+    text-underline-offset: 0.2em;
+  }
+  .mini {
+    margin-left: 0.4rem;
+    font-size: var(--sl-text-xs);
+    color: var(--sl-color-gray-3);
+  }
+</style>

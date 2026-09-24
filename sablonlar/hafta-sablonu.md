@@ -1,12 +1,13 @@
 ---
 title: "Haftanın konusu"
-description: "Ders özetinin ilk cümlesi (arama sonuçlarında görünür)."
+description: "Ders özetinin ilk cümlesi (arama sonuçlarında ve paylaşımlarda görünür)."
+etiket: "4. Ay (Aralık) · 1. Hafta"
+konu: "Ayın teması"
+lastUpdated: 2026-09-24
 sidebar:
   label: "1. Hafta: Haftanın konusu"
   order: 1
 ---
-
-**4. Ay (Aralık) · 1. Hafta**
 
 ## Ders özeti
 
