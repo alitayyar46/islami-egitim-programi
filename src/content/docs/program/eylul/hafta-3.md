@@ -68,7 +68,7 @@ Bu bilginin doğuştan ilham edildiğini (sevk-i ilahi).
 **S3.** Şefkat-rızık delili ne anlatır?
 
 ---
-title: "İhtiyaçlarımızı Kim Karşılıyor? (Şefkat-Rızık, Yardımlaşma, Temizlik Delilleri)"
+## 📄 Veli / Anlatıcı Dökümanı: Detaylı Ders Planı
 description: "Bir bebeğin ihtiyacının tam zamanında karşılanması, doğadaki yardımlaşma ve kâinattaki temizlenme-yenilenme süreçleri; Şefkat, Hikmet ve Kuddûs isimlerine işaret eder."
 etiket: "1. Ay (Eylül) · 3. Hafta"
 konu: "Allah'ın Varlığına Dair Deliller"
@@ -80,7 +80,6 @@ sidebar:
 
 ## Ders özeti
 
-Yeni doğan bir bebek kendi ihtiyacını bilmediği ve karşılayamadığı hâlde, ihtiyacı tam zamanında ve tam miktarda karşılanır — bu, sınırsız bir şefkat ve rızıklandırma düzenine işaret eder (**Şefkat–Merhamet ve Rızık Delili**). Doğada birbirinden çok farklı canlılar (arı–çiçek, solucan–toprak gibi) farkında olmadan birbirine fayda sağlar; bu da hikmetli bir yardımlaşma sistemini gösterir (**Yardımlaşma Delili**). Son olarak kâinatta ve vücudumuzda sürekli işleyen bir temizlenme-dönüşüm-yenilenme süreci vardır; bu da Allah'ın her türlü eksiklikten uzak olduğunu ifade eden **Kuddûs** ismini düşündürür (**Temizlik Delili**).
 
 :::tip[👪 Aile Etkinliği]
 Küçük bir bebeğin veya kardeşin ihtiyaçlarının nasıl tam zamanında karşılandığını konuşun. Ya da bir arı/karınca videosu izleyip "bu yardımlaşmayı kim düzenliyor?" diye sorun.
