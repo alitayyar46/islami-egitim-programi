@@ -5,7 +5,7 @@ etiket: "1. Ay (Eylül) · 1. Hafta"
 konu: "Allah'ın Varlığına Dair Deliller"
 lastUpdated: 2026-09-24
 sidebar:
-  label: "1. Hafta: İçimizdeki Ses ve Kâinattaki Düzen (Imkan, Hudus, Hayat Delilleri)"
+  label: "1. Hafta: İçimizdeki Ses ve Kâinattaki Düzen (İmkan, Hudus, Hayat Delilleri)"
   order: 1
 ---
 
