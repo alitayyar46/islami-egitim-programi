@@ -1,18 +1,27 @@
 ---
-title: "Tesadüf mü, Yaratıcı mı? (Dört İhtimal, Şefkat-Rızık, Yardımlaşma, Sevk-i İlahi)"
+title: "Şefkat–Merhamet ve Rızık – Yardımlaşma – Temizlik Delilleri"
 description: "Dört ihtimalden (atomlar, kendi kendine, doğa kanunları, Yaratıcı) ilk üçü aklen imkânsızdır. Bebeğin ihtiyacının tam zamanında karşılanması, arı-çiçek…"
 etiket: "1. Ay (Eylül) · 3. Hafta"
 konu: "Allah'ın Varlığına Dair Deliller"
 lastUpdated: 2026-09-24
 sidebar:
-  label: "3. Hafta: Tesadüf mü, Yaratıcı mı? (Dört İhtimal, Şefkat-Rızık, Yardımlaşma, Sevk-i İlahi)"
+  label: "3. Hafta: Şefkat–Merhamet ve Rızık – Yardımlaşma – Temizlik Delilleri"
   order: 3
 ---
 
 
-## Ders özeti
+## Ders amacı
 
-Dört ihtimalden (atomlar, kendi kendine, doğa kanunları, Yaratıcı) ilk üçü aklen imkânsızdır. Bebeğin ihtiyacının tam zamanında karşılanması, arı-çiçek yardımlaşması, yavru ördeğin doğar doğmaz yüzmesi hep Yaratıcıya işaret eder.
+Bu dersin sonunda öğrenci:
+
+- **Şefkat, merhamet ve rızık** kavramlarını günlük hayattan örneklerle anlayabilir.  
+- Canlıların çok sayıda ihtiyacının nasıl karşılandığı üzerine düşünebilir.   
+- **Yardımlaşma Delili**nin temel mantığını kavrayabilir.   
+- Kâinattaki farklı canlıların birbirlerinin hayatına nasıl katkıda bulunduğunu fark edebilir.   
+- **Temizlik Delili** ile doğadaki temizlenme ve dönüşüm olayları arasında bağlantı kurabilir.  
+- **Kuddûs** isminin temizlik ve her türlü eksiklikten uzak olma anlamıyla ilişkisini anlayabilir.   
+- Üç delili kendi cümleleriyle açıklayabilir.   
+- Kâinata bakarken sadece “ne oluyor?” değil, **“Bu bana ne düşündürüyor?”** sorusunu da sormayı öğrenir.
 
 :::tip[👪 Aile Etkinliği]
 Bir kâğıda 'Seni seviyorum' yazın. 'Bunu rüzgâr mı yazdı?' diye sorun.
