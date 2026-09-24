@@ -1,0 +1,97 @@
+---
+// Programdaki ayları, hazır/hazırlanıyor durumlarıyla numaralı kartlar hâlinde listeler.
+// Durum, ay sayfasının frontmatter'ındaki "taslak: true" satırından okunur;
+// yani takvimi elle güncellemeye gerek kalmaz.
+import { getCollection } from 'astro:content';
+import { aylar } from '../aylar.mjs';
+
+const { detay = false } = Astro.props;
+const docs = await getCollection('docs');
+const norm = (id: string) => id.replace(/\/index$/, '');
+
+const girdiler = aylar.map(([dir, kisa], i) => {
+  const ay = docs.find((d) => norm(d.id) === `program/${dir}`);
+  const haftalar = docs
+    .filter((d) => norm(d.id).startsWith(`program/${dir}/`))
+    .sort((a, b) => (a.data.sidebar?.order ?? 0) - (b.data.sidebar?.order ?? 0));
+  const kisaAd = kisa.includes('·') ? kisa.split('·')[1].trim() : kisa;
+  return { no: i + 1, dir, kisaAd, ay, haftalar, hazir: ay ? !ay.data.taslak : false };
+});
+---
+
+<ol class="ay-listesi not-content">
+  {
+    girdiler.map(({ no, dir, kisaAd, ay, haftalar, hazir }) => (
+      <li class:list={['kart', !hazir && 'yakinda']}>
+        <a href={`/program/${dir}/`} class="kart-link">
+          <div class="ust">
+            <span class="no">{String(no).padStart(2, '0')}</span>
+            <span class:list={['durum', hazir ? 'hazir' : 'taslak']}>{hazir ? 'Hazır' : 'Yakında'}</span>
+          </div>
+          <span class="ay-adi">{kisaAd}</span>
+          {ay?.data.konu && <p class="konu">{ay.data.konu}</p>}
+        </a>
+        {detay && (
+          <ul class="haftalar">
+            {haftalar.map((h) => (
+              <li>
+                <a href={`/${norm(h.id)}/`}>{h.data.sidebar?.label ?? h.data.title}</a>
+                {h.data.taslak && <span class="mini">taslak</span>}
+              </li>
+            ))}
+          </ul>
+        )}
+      </li>
+    ))
+  }
+</ol>
+
+<style>
+  .ay-listesi {
+    list-style: none;
+    margin: 1rem 0 0;
+    padding: 0;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr));
+  }
+  .kart {
+    border: 1px solid var(--sl-color-hairline);
+    border-radius: 14px;
+    background: var(--sl-color-gray-7);
+    transition: border-color 0.15s, transform 0.15s;
+  }
+  .kart:hover { border-color: var(--tema-altin); transform: translateY(-2px); }
+  .kart.yakinda { opacity: 0.7; }
+  .kart-link { display: block; padding: 1.1rem 1.25rem; text-decoration: none !important; color: inherit; }
+  .ust { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.7rem; }
+  .no {
+    font-family: monospace;
+    font-weight: 800;
+    font-size: 1.2rem;
+    color: var(--tema-altin);
+    background: color-mix(in srgb, var(--tema-altin) 14%, transparent);
+    padding: 0.15rem 0.55rem;
+    border-radius: 8px;
+  }
+  .durum {
+    font-size: var(--sl-text-xs);
+    font-weight: 700;
+    padding: 0.15rem 0.55rem;
+    border-radius: 999px;
+  }
+  .durum.hazir { color: #4a9b7f; background: color-mix(in srgb, #4a9b7f 16%, transparent); }
+  .durum.taslak { color: var(--sl-color-gray-3); background: var(--sl-color-gray-6); }
+  .ay-adi {
+    display: block;
+    font-family: var(--tema-baslik);
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: var(--sl-color-text-accent);
+  }
+  .konu { margin: 0.35rem 0 0; font-size: var(--sl-text-sm); color: var(--sl-color-gray-3); line-height: 1.5; }
+  .haftalar { margin: 0.6rem 1.1rem 1rem; padding-left: 1.1rem; font-size: var(--sl-text-sm); line-height: 1.5; }
+  .haftalar li { margin: 0.25rem 0; }
+  .haftalar a { color: var(--sl-color-text); text-decoration-color: var(--sl-color-gray-4); text-underline-offset: 0.2em; }
+  .mini { margin-left: 0.4rem; font-size: var(--sl-text-xs); color: var(--sl-color-gray-3); }
+</style>
