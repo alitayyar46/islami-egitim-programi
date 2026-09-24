@@ -17,7 +17,5 @@ Bu program, M. Fethullah Gülen Hocaefendi'nin **İnancın Gölgesinde** adlı e
 ## Kaynaklar
 
 - *İnancın Gölgesinde*, M. Fethullah Gülen (Nil Yayınları)
-- *Öğretmenin Not Defteri 1-2-3*, Vehbi Vakkasoğlu (Cihan Yayınları)
-- okumazamani.de
 
 Ders özetleri, etkinlikler, sınavlar ve ödül-ceza sistemi bu program için özgün olarak yazılmıştır.
