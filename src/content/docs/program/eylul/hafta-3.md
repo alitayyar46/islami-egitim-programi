@@ -1,75 +1,5 @@
 ---
-title: "Şefkat–Merhamet ve Rızık – Yardımlaşma – Temizlik Delilleri"
-description: "Kâinattaki şefkat, yardımlaşma ve temizlik"
-etiket: "1. Ay (Eylül) · 3. Hafta"
-konu: "Allah'ın Varlığına Dair Deliller"
-lastUpdated: 2026-09-24
-sidebar:
-  label: "3. Hafta: Şefkat–Merhamet ve Rızık – Yardımlaşma – Temizlik Delilleri"
-  order: 3
----
-</details>
-
-## Ders amacı
-
-Bu dersin sonunda öğrenci:
-
-- **Şefkat, merhamet ve rızık** kavramlarını günlük hayattan örneklerle anlayabilir.  
-- Canlıların çok sayıda ihtiyacının nasıl karşılandığı üzerine düşünebilir.   
-- **Yardımlaşma Delili**nin temel mantığını kavrayabilir.   
-- Kâinattaki farklı canlıların birbirlerinin hayatına nasıl katkıda bulunduğunu fark edebilir.   
-- **Temizlik Delili** ile doğadaki temizlenme ve dönüşüm olayları arasında bağlantı kurabilir.  
-- **Kuddûs** isminin temizlik ve her türlü eksiklikten uzak olma anlamıyla ilişkisini anlayabilir.   
-- Üç delili kendi cümleleriyle açıklayabilir.   
-- Kâinata bakarken sadece “ne oluyor?” değil, **“Bu bana ne düşündürüyor?”** sorusunu da sormayı öğrenir.
-
-:::tip[👪 Aile Etkinliği]
-Bir kâğıda 'Seni seviyorum' yazın. 'Bunu rüzgâr mı yazdı?' diye sorun.
-:::
-
-:::note[📗 Bu Haftanın Kur'an Programı]
-**Ezber:** İhlâs Suresi (4 ayet)
-
-**Geçen hafta tekrar:** Sübhâneke Duası
-
-**Günlük okuma:** Yarım sayfa Kur'an (hafta sonu tecvid kontrolü)
-
-*Puan: Ezber tam → +15 · Yarım → +5 · Günlük okuma → +5/gün*
-:::
-
-:::caution[📖 Bu Haftanın Okuma Ödevi]
-**Kitap:** Öğretmenin Not Defteri (1-2-3) — Vehbi Vakkasoğlu
-
-**Bölüm:** "Daktilo Yazan Maymunlar" — s. 108
-
-*Okuduktan sonra düşün: Ana fikir nedir? Hangi örnek dikkatini çekti? Kendi hayatınla nasıl ilişkilendirirsin?*
-:::
-
-## 📝 Haftalık mini kontrol (3 soru)
-
-**S1.** Dört ihtimalden akla yatkın olan hangisidir?
-
-<details>
-<summary>Cevabı gör</summary>
-
-Bir Yaratıcının var etmesi.
-
-</details>
-
-**S2.** Yavru ördeğin doğar doğmaz yüzmesi neyi gösterir?
-
-<details>
-<summary>Cevabı gör</summary>
-
-Bu bilginin doğuştan ilham edildiğini (sevk-i ilahi).
-
-
-
-**S3.** Şefkat-rızık delili ne anlatır?
-
-</details>
-
-## 📄 Veli / Anlatıcı Dökümanı: Detaylı Ders Planı
+title: "İhtiyaçlarımızı Kim Karşılıyor? (Şefkat-Rızık, Yardımlaşma, Temizlik Delilleri)"
 description: "Bir bebeğin ihtiyacının tam zamanında karşılanması, doğadaki yardımlaşma ve kâinattaki temizlenme-yenilenme süreçleri; Şefkat, Hikmet ve Kuddûs isimlerine işaret eder."
 etiket: "1. Ay (Eylül) · 3. Hafta"
 konu: "Allah'ın Varlığına Dair Deliller"
@@ -81,6 +11,7 @@ sidebar:
 
 ## Ders özeti
 
+Yeni doğan bir bebek kendi ihtiyacını bilmediği ve karşılayamadığı hâlde, ihtiyacı tam zamanında ve tam miktarda karşılanır — bu, sınırsız bir şefkat ve rızıklandırma düzenine işaret eder (**Şefkat–Merhamet ve Rızık Delili**). Doğada birbirinden çok farklı canlılar (arı–çiçek, solucan–toprak gibi) farkında olmadan birbirine fayda sağlar; bu da hikmetli bir yardımlaşma sistemini gösterir (**Yardımlaşma Delili**). Son olarak kâinatta ve vücudumuzda sürekli işleyen bir temizlenme-dönüşüm-yenilenme süreci vardır; bu da Allah'ın her türlü eksiklikten uzak olduğunu ifade eden **Kuddûs** ismini düşündürür (**Temizlik Delili**).
 
 :::tip[👪 Aile Etkinliği]
 Küçük bir bebeğin veya kardeşin ihtiyaçlarının nasıl tam zamanında karşılandığını konuşun. Ya da bir arı/karınca videosu izleyip "bu yardımlaşmayı kim düzenliyor?" diye sorun.
@@ -193,22 +124,6 @@ Eğer doğada hiçbir şey parçalanıp dönüşmeseydi, kalıntılar sürekli b
 
 ### 🧠 3 Delil – Hap Notlar
 
-**❤️ Şefkat–Rızık:** İhtiyacım var, gücüm sınırlı — ama ihtiyacım tam zamanında karşılanıyor. → Beni gözeten bir Şefkat Sahibi var.
-
-**🤝 Yardımlaşma:** Farklı canlılar birbirine farkında olmadan fayda sağlıyor. → Bu uyumu düzenleyen bir Hikmet Sahibi var.
-
-**✨ Temizlik:** Doğa ve bedenim sürekli temizleniyor, yenileniyor. → Bu, Allah'ın **Kuddûs** ismini düşündürür.
-
-#### Süper Kısa Formül
-
-İHTİYAÇ → ŞEFKAT · YARDIMLAŞMA → HİKMET · TEMİZLİK → KUDDÛS
-
-#### Kendini Test Et
-
-## 📄 Öğrenci Dökümanı: Hap Notlar
-
-### 🧠 3 Delil – Hap Notlar
-
 #### ❤️ 1. Şefkat–Merhamet ve Rızık Delili — "İhtiyaçlarımız nasıl karşılanıyor?"
 
 İnsanın ve diğer canlıların ihtiyacı çok, gücü sınırlıdır: 🍎 Yiyecek · 💧 Su · 🌬️ Hava · ❤️ Sevgi · 🛡️ Korunma. Bir bebek ne yiyeceğini bilmez, kendini koruyamaz — ama ihtiyaçları karşılanır.
@@ -279,7 +194,3 @@ Doğada sürekli temizlenme, dönüşüm ve yenilenme var. Düşen bir yaprak, m
 **Temizlik:** Kâinatta temizlik ve dönüşüm var → Kuddûs ismini düşündürüyor.
 
 > Kâinatta gördüğüm her ihtiyaç, her yardımlaşma ve her temizlik sadece bir olay değil; Allah'ın isimlerini ve kudretini düşündüren bir işaret olabilir.
-
-1. Rızık ne demektir? → Canlıların yaşaması için ulaştırılan nimetler.
-2. Yardımlaşma Delili'ne bir örnek: → Arı–çiçek, solucan–toprak.
-3. Kuddûs ismi ne anlatır? → Allah'ın her eksiklikten uzak oluşu.
