@@ -1,11 +1,11 @@
 ---
-title: "İçimizdeki Ses ve Kâinattaki Düzen (Fıtrat, Nizam, Hayat Delilleri)"
+title: "İçimizdeki Ses ve Kâinattaki Düzen (İmkan, Hudus, Hayat Delilleri)"
 description: "Her insanın içinde doğuştan gelen bir Yaratıcıya inanma eğilimi vardır (fıtrat). Gezegenlerin düzeni, mevsimlerin sırası, tohumdan ağacın çıkması kusursuz…"
 etiket: "1. Ay (Eylül) · 1. Hafta"
 konu: "Allah'ın Varlığına Dair Deliller"
 lastUpdated: 2026-09-24
 sidebar:
-  label: "1. Hafta: İçimizdeki Ses ve Kâinattaki Düzen (Fıtrat, Nizam, Hayat Delilleri)"
+  label: "1. Hafta: İçimizdeki Ses ve Kâinattaki Düzen (Imkan, Hudus, Hayat Delilleri)"
   order: 1
 ---
 
