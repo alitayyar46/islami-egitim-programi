@@ -67,704 +67,219 @@ Bu bilginin doğuştan ilham edildiğini (sevk-i ilahi).
 
 **S3.** Şefkat-rızık delili ne anlatır?
 
-# 1. DERSE BAŞLAYALIM: BİR BEBEĞİ DÜŞÜNELİM 👶
-
-Öğretmen sınıfa şu soruyu sorar:
-
-> **“Yeni doğmuş bir bebeğin nelere ihtiyacı vardır?”**
-
-Öğrencilerden cevaplar alınır:
-
-- Yiyecek
-    
-- Su
-    
-- Hava
-    
-- Sıcaklık
-    
-- Uyku
-    
-- Korunma
-    
-- Sevgi
-    
-- Bakım
-    
-
-Sonra önemli bir soru:
-
-> **“Bebek bunların hangisini kendi başına hazırlayabilir?”**
-
-Neredeyse hiçbirini.
-
-Ama bebek doğduğu andan itibaren ihtiyaçlarının karşılandığı bir ortamın içine gelir.
-
-### 🤔 Şimdi düşünelim:
-
-Bebek daha:
-
-- ne yiyeceğini bilmiyor,
-    
-- yiyeceğini kendisi bulamıyor,
-    
-- kendi bakımını yapamıyor.
-    
-
-Buna rağmen ihtiyaçları karşılanıyor.
-
-### Büyük soru:
-
-> **“İhtiyaçlarımızı bizden önce bilen ve karşılayan bu düzen bize ne düşündürüyor?”**
-
-Bugün bu soruya üç farklı açıdan bakacağız:
-
-### 🔎 1. Şefkat–Merhamet ve Rızık Delili
-
-**“İhtiyaçlarımız nasıl karşılanıyor?”**
-
-### 🔎 2. Yardımlaşma Delili
-
-**“Varlıklar birbirlerine nasıl yardım ediyor?”**
-
-### 🔎 3. Temizlik Delili
-
-**“Kâinat nasıl temizleniyor ve yenileniyor?”**
-
+---
+title: "İhtiyaçlarımızı Kim Karşılıyor? (Şefkat-Rızık, Yardımlaşma, Temizlik Delilleri)"
+description: "Bir bebeğin ihtiyacının tam zamanında karşılanması, doğadaki yardımlaşma ve kâinattaki temizlenme-yenilenme süreçleri; Şefkat, Hikmet ve Kuddûs isimlerine işaret eder."
+etiket: "1. Ay (Eylül) · 3. Hafta"
+konu: "Allah'ın Varlığına Dair Deliller"
+lastUpdated: 2026-09-24
+sidebar:
+  label: "3. Hafta: İhtiyaçlarımızı Kim Karşılıyor? (Şefkat-Rızık, Yardımlaşma, Temizlik)"
+  order: 3
 ---
 
-# 2. ŞEFKAT–MERHAMET VE RIZIK DELİLİ
+## Ders özeti
 
-## ❤️ Önce kavramları anlayalım
+Yeni doğan bir bebek kendi ihtiyacını bilmediği ve karşılayamadığı hâlde, ihtiyacı tam zamanında ve tam miktarda karşılanır — bu, sınırsız bir şefkat ve rızıklandırma düzenine işaret eder (**Şefkat–Merhamet ve Rızık Delili**). Doğada birbirinden çok farklı canlılar (arı–çiçek, solucan–toprak gibi) farkında olmadan birbirine fayda sağlar; bu da hikmetli bir yardımlaşma sistemini gösterir (**Yardımlaşma Delili**). Son olarak kâinatta ve vücudumuzda sürekli işleyen bir temizlenme-dönüşüm-yenilenme süreci vardır; bu da Allah'ın her türlü eksiklikten uzak olduğunu ifade eden **Kuddûs** ismini düşündürür (**Temizlik Delili**).
 
-### Şefkat nedir?
+:::tip[👪 Aile Etkinliği]
+Küçük bir bebeğin veya kardeşin ihtiyaçlarının nasıl tam zamanında karşılandığını konuşun. Ya da bir arı/karınca videosu izleyip "bu yardımlaşmayı kim düzenliyor?" diye sorun.
+:::
 
-Bir varlığın başkasının ihtiyaç ve sıkıntılarına karşı duyarlı olması ve ona iyilik istemesidir.
+:::note[📗 Bu Haftanın Kur'an Programı]
+**Ezber:** İhlâs Suresi (4 ayet)
 
-### Merhamet nedir?
+**Geçen hafta tekrar:** Sübhâneke Duası
 
-Birinin ihtiyacını veya sıkıntısını görüp ona karşı yardım ve iyilikte bulunma duygusudur.
+**Günlük okuma:** Yarım sayfa Kur'an (hafta sonu tecvid kontrolü)
 
-### Rızık nedir?
+*Puan: Ezber tam → +15 · Yarım → +5 · Günlük okuma → +5/gün*
+:::
 
-Canlıların hayatlarını sürdürebilmeleri için ihtiyaç duydukları ve kendilerine ulaştırılan nimetlerdir.
+## 📝 Haftalık mini kontrol (3 soru)
 
----
-
-# 🍎 İHTİYAÇLARIMIZI DÜŞÜNELİM
-
-Bir insanın ihtiyaçlarını düşün:
-
-🍞 Yiyecek  
-💧 Su  
-🌬️ Hava  
-☀️ Güneş  
-❤️ Sevgi  
-🛏️ Uyku  
-👨‍👩‍👧 Korunma
-
-İnsan bunların hepsini kendi başına hazırlayamaz.
-
-Üstelik sadece insanın değil:
-
-🐦 Kuşların  
-🐝 Arıların  
-🐟 Balıkların  
-🌳 Bitkilerin
-
-de ihtiyaçları vardır.
-
----
-
-## 🐣 İlginç bir örnek: Yavru kuş
-
-Yavru bir kuşu düşün.
-
-Yavru kuş:
-
-- yiyeceğini kendi üretmez,
-    
-- uçmayı bilmez,
-    
-- yuvasını kendi kurmaz,
-    
-- kendisini birçok tehlikeden koruyamaz.
-    
-
-Ama anne-babası ona yiyecek getirir.
-
-### 🤔 Soru:
-
-> **“Yavru kuşun ihtiyacını kim biliyor?”**
-
-Burada sadece anne kuşun davranışına değil, bütün sistemin nasıl işlediğine dikkat ediyoruz.
-
----
-
-# 🔑 ŞEFKAT–RIZIK DELİLİ'NİN MANTIĞI
-
-İnsanın ve diğer canlıların:
-
-**çok fazla ihtiyacı vardır.**
-
-Ama:
-
-**gücü sınırlıdır.**
-
-Buna rağmen ihtiyaçları:
-
-- uygun zamanda,
-    
-- uygun şekilde,
-    
-- ihtiyaçlarına uygun miktarda
-    
-
-karşılanır.
-
-Bu durum bize:
-
-> **Şefkat ve merhametle işleyen bir rızıklandırma düzenini**
-
-düşündürür.
-
-Risale-i Nur'un yaklaşımında bu sistem:
-
-➡️ **Allah'ın şefkat ve merhametini gösteren bir delildir.**
-
----
-
-## 🌟 SONUÇ
-
-> **İhtiyaçlarımızı bilen ve karşılayan bir Şefkat ve Merhamet Sahibi vardır.**
-
-Bu da:
-
-> **Allah'tır.**
-
----
-
-## ⭐ AKLINDA KALSIN
-
-> **“İhtiyaç → Rızık → Şefkat”**
-
-### ŞEFKAT–RIZIK = İHTİYAÇLARIN KARŞILANMASI
-
----
-
-# 🎯 MİNİ ETKİNLİK: “İHTİYACIM NE?”
-
-Aşağıdaki canlıların birer ihtiyacını yaz:
-
-|Canlı|İhtiyacı|
-|---|---|
-|👶 Bebek|................|
-|🐦 Kuş|................|
-|🐝 Arı|................|
-|🌱 Bitki|................|
-|🐟 Balık|................|
-
-### 💬 Tartışma
-
-> **“Bu canlılar kendi ihtiyaçlarının ne kadarını kendileri karşılayabiliyor?”**
-
----
-
-# 3. YARDIMLAŞMA DELİLİ
-
-## 🤝 Kâinatta herkes sadece kendisi için mi çalışıyor?
-
-Şimdi doğaya bakalım.
-
-Bir çiçeğin yanına bir arı geliyor.
-
-🐝 → 🌸
-
-Arı çiçekten besin topluyor.
-
-Ama aynı zamanda çiçeklerin **tozlaşmasına katkıda bulunabiliyor.**
-
-Böylece bir canlının yaptığı iş başka bir canlının hayatına da katkı sağlıyor.
-
----
-
-# 🌱 TOPRAĞA BAKALIM
-
-Toprağın içinde:
-
-🦠 Mikroorganizmalar  
-🪱 Solucanlar  
-🐜 Küçük canlılar
-
-bulunur.
-
-Bunlar doğadaki organik maddelerin parçalanması ve maddelerin yeniden döngüye katılması gibi süreçlerde rol oynar.
-
-Böylece:
-
-🍂 Bitki kalıntıları
-
-⬇️
-
-🦠 Mikroorganizmalar ve diğer canlılar
-
-⬇️
-
-🌱 Topraktaki madde döngüsü
-
-⬇️
-
-🌿 Yeni bitkilerin gelişimine katkı
-
-şeklinde bir ilişki ortaya çıkar.
-
----
-
-# 🧠 ŞAŞIRTICI OLAN NE?
-
-Bu canlıların çoğu:
-
-- birbirlerinden tamamen farklıdır,
-    
-- farklı özelliklere sahiptir,
-    
-- farklı ihtiyaçları vardır.
-    
-
-Ama faaliyetleri daha büyük bir sistem içerisinde birbirleriyle bağlantılıdır.
-
-### 🤔 Soru:
-
-> **“Birbirinden çok farklı canlıların aynı sistem içinde birbirlerine fayda sağlaması bize ne düşündürüyor?”**
-
----
-
-# 🔑 YARDIMLAŞMA DELİLİ'NİN MANTIĞI
-
-**Farklı varlıklar**
-
-↓
-
-**Birbirlerine fayda sağlıyor**
-
-↓
-
-**Büyük bir sistem oluşuyor**
-
-↓
-
-**Uyum ve hikmet ortaya çıkıyor**
-
-Risale-i Nur'un yaklaşımında bu yardımlaşma:
-
-> **Kâinatta hikmetli bir işleyiş olduğunu gösterir.**
-
-Bu hikmetli işleyiş:
-
-➡️ **Allah'ın yaratmasını ve hikmetini düşündürür.**
-
----
-
-## ⭐ AKLINDA KALSIN
-
-> **“Kâinatta yardımlaşma var; bu yardımlaşma bize Hikmet Sahibini düşündürüyor.”**
-
-### YARDIMLAŞMA = FARKLI VARLIKLAR → ORTAK SİSTEM
-
----
-
-# 🎯 MİNİ ETKİNLİK: “KİME FAYDASI VAR?”
-
-Aşağıdaki örneklerde bir canlının başka bir canlıya nasıl fayda sağladığını düşün:
-
-### 🐝 Arı → 🌸 Çiçek
-
-Arının yaptığı faaliyet çiçeğe nasıl katkı sağlayabilir?
-
-............................................................
-
-### 🪱 Solucan → 🌱 Toprak
-
-Solucanın faaliyetleri toprağa nasıl katkı sağlayabilir?
-
-............................................................
-
-### 🌧️ Yağmur → 🌱 Bitki
-
-Yağmur bitkiye nasıl katkı sağlar?
-
-............................................................
-
----
-
-# 4. TEMİZLİK DELİLİ
-
-## ✨ Şimdi başka bir soru:
-
-> **“Eğer doğadaki her şey sürekli birikseydi ne olurdu?”**
-
-Bir düşün:
-
-🍂 Yapraklar hiç parçalanmıyor.
-
-🐾 Canlı kalıntıları hiç dönüşmüyor.
-
-🌱 Organik maddeler sürekli birikiyor.
-
-Ne olurdu?
-
-Muhtemelen dünya yaşamak için çok daha farklı ve zor bir yer olurdu.
-
-Fakat doğada sürekli:
-
-**parçalanma → dönüşüm → yenilenme**
-
-süreçleri gerçekleşiyor.
-
----
-
-# 🌳 BİR YAPRAĞIN HİKÂYESİ
-
-Sonbaharda bir yaprak düşün:
-
-🍂 Ağaçtan düşüyor.
-
-Sonra:
-
-🦠 Mikroorganizmalar  
-🪱 Küçük canlılar  
-💧 Su  
-🌱 Toprak
-
-gibi birçok unsurun etkisiyle parçalanıyor ve içerdiği maddeler doğadaki döngülere yeniden katılıyor.
-
-### 🤔 Soru:
-
-> **“Bu süreç sadece yok olmak mı, yoksa bir dönüşüm mü?”**
-
-➡️ **Dönüşüm.**
-
----
-
-# 🌍 DOĞADA TEMİZLİĞE KATKI SAĞLAYANLAR
-
-Metinde dikkat çekilen örneklerden bazıları:
-
-🦠 Bakteriler  
-🐜 Karıncalar  
-🐛 Böcekler  
-🦅 Bazı kuşlar  
-💨 Rüzgâr  
-🌧️ Yağmur  
-❄️ Kar
-
-Bunların her biri doğadaki farklı süreçlerde rol oynar.
-
-Böylece kâinatta sürekli bir:
-
-> **temizlenme ve yenilenme**
-
-hareketi görürüz.
-
----
-
-# 🧠 İNSAN VÜCUDUNA BAKALIM
-
-Temizlik sadece doğada değildir.
-
-Vücudumuzda da sürekli çeşitli düzenleme ve atıkların uzaklaştırılması süreçleri gerçekleşir.
-
-Örneğin:
-
-🌬️ Oksijenin kullanılması  
-🩸 Kanın dolaşımı  
-🫁 Akciğerlerin çalışması  
-🧪 Böbreklerin süzme görevi
-
-vücudun dengesini koruyan sistemlerin parçalarıdır.
-
-### 🤔 Soru:
-
-> **“Vücudumuz hiç temizlenmeseydi ve atıklar sürekli biriksaydı ne olurdu?”**
-
----
-
-# 🔑 TEMİZLİK DELİLİ'NİN MANTIĞI
-
-Kâinatta:
-
-**Temizlenme**
-
-**Dönüşüm**
-
-**Yenilenme**
-
-görülmektedir.
-
-Risale-i Nur'un yaklaşımında bu temizlik ve nezafet:
-
-> **Kuddûs ismini düşündüren bir delildir.**
-
----
-
-# ✨ KUDDÛS NE DEMEK?
-
-**Kuddûs:**
-
-Allah'ın her türlü eksiklikten, kusurdan ve noksanlıktan uzak olduğunu ifade eden isimlerindendir.
-
-Bu nedenle kâinattaki:
-
-✨ Temizlik  
-✨ Nezafet  
-✨ Arınma  
-✨ Düzen
-
-üzerinde düşünmek, **Kuddûs** ismini hatırlamamıza vesile olur.
-
----
-
-## ⭐ AKLINDA KALSIN
-
-> **“Kâinattaki temizlik ve arınma, Kuddûs ismini düşündürür.”**
-
-### TEMİZLİK = NEZAFET → KUDDÛS
-
----
-
-# 5. ÜÇ DELİLİ BİRLİKTE DÜŞÜNELİM
-
-Artık üç farklı olaya bakıyoruz:
-
-### ❤️ ŞEFKAT–RIZIK
-
-Canlıların ihtiyaçları karşılanıyor.
-
-➡️ **Şefkat ve merhamet**
-
-### 🤝 YARDIMLAŞMA
-
-Varlıklar birbirlerinin hayatına katkıda bulunuyor.
-
-➡️ **Hikmetli yardımlaşma**
-
-### ✨ TEMİZLİK
-
-Kâinatta sürekli temizlenme ve dönüşüm gerçekleşiyor.
-
-➡️ **Kuddûs**
-
----
-
-# 🧠 ÜÇ DELİLİ TEK TABLODA EZBERLE
-
-|Delil|Temel soru|Ana fikir|
-|---|---|---|
-|🔵 **Şefkat–Merhamet ve Rızık**|İhtiyaçlarımız nasıl karşılanıyor?|İhtiyaç → Rızık → Şefkat|
-|🟢 **Yardımlaşma**|Varlıklar birbirlerine nasıl fayda sağlıyor?|Yardımlaşma → Hikmet|
-|🟠 **Temizlik**|Kâinat nasıl temizleniyor?|Temizlik → Kuddûs|
-
----
-
-# 🎮 MİNİ OYUN: “HANGİ DELİL?”
-
-Öğretmen cümleleri okur.
-
-Öğrenciler:
-
-**Ş = Şefkat–Rızık**  
-**Y = Yardımlaşma**  
-**T = Temizlik**
-
-kartını kaldırır.
-
-### 1.
-
-“Yeni doğmuş bir bebeğin ihtiyaçlarının karşılanması.”
-
-➡️ **Ş**
-
-### 2.
-
-“Arıların çiçeklerin tozlaşmasına katkıda bulunması.”
-
-➡️ **Y**
-
-### 3.
-
-“Ölü yaprakların parçalanarak doğadaki döngülere katılması.”
-
-➡️ **T**
-
-### 4.
-
-“Canlıların ihtiyaç duydukları besin ve suya ulaşması.”
-
-➡️ **Ş**
-
-### 5.
-
-“Farklı canlıların aynı ekosistem içerisinde birbirlerine katkı sağlaması.”
-
-➡️ **Y**
-
-### 6.
-
-“Doğadaki organik maddelerin parçalanıp dönüşmesi.”
-
-➡️ **T**
-
----
-
-# 🧠 DÜŞÜN – EŞLEŞTİR – AÇIKLA
-
-Aşağıdaki cümleleri doğru delille eşleştir.
-
-### A
-
-“İhtiyacım var ama ihtiyacımı kendim karşılayamıyorum.”
-
-### B
-
-“Başka canlıların faaliyetleri benim hayatıma da katkı sağlıyor.”
-
-### C
-
-“Doğada sürekli parçalanma ve dönüşüm gerçekleşiyor.”
-
-**Şefkat–Rızık – Yardımlaşma – Temizlik**
-
-### Cevap:
-
-**A → Şefkat–Merhamet ve Rızık**
-
-**B → Yardımlaşma**
-
-**C → Temizlik**
-
----
-
-# 💬 SINIF TARTIŞMASI
-
-Aşağıdaki sorulardan biri seçilir:
-
-### Soru 1
-
-> **“İhtiyaçlarımızın karşılanması ile şefkat arasında nasıl bir bağlantı kurabiliriz?”**
-
-### Soru 2
-
-> **“Bir canlı başka bir canlıya farkında olmadan fayda sağlıyorsa, bunu nasıl açıklayabiliriz?”**
-
-### Soru 3
-
-> **“Doğadaki temizlik ve dönüşüm hiç olmasaydı neler olurdu?”**
-
-### Soru 4
-
-> **“Kâinattaki yardımlaşma ve temizlik bize Allah'ın hangi isimlerini düşündürüyor?”**
-
-> Amaç öğrencinin cevabı ezberlemesi değil, **gözlem → düşünce → sonuç** bağlantısını kurmasıdır.
-
----
-
-# ✏️ DERS SONU: 5 DAKİKALIK ÇIKIŞ BİLETİ
-
-Ders bitmeden öğrenciler şu üç soruya kendi cümleleriyle cevap verir:
-
-### 1. Şefkat–Merhamet ve Rızık Delili bana ne söylüyor?
-
-....................................................................
-
-### 2. Yardımlaşma Delili bana ne söylüyor?
-
-....................................................................
-
-### 3. Temizlik Delili bana ne söylüyor?
-
-....................................................................
-
-### ⭐ BONUS
-
-Bugün öğrendiğin üç delilden hangisi günlük hayatta daha fazla dikkatini çekti?
-
-**Bir örnek ver.**
-
-....................................................................
-
----
-
-# 📌 DERSİN ÖZETİ
-
-Bugün kâinata üç farklı pencereden baktık:
-
-### ❤️ ŞEFKAT–MERHAMET VE RIZIK
-
-**“İhtiyaçlarımız nasıl karşılanıyor?”**
-
-Canlıların ihtiyaçları, kendi güçlerinin çok ötesinde bir şekilde karşılanmaktadır.
-
-➡️ Bu durum **şefkat, merhamet ve rızıklandırmayı** düşündürür.
-
-### 🤝 YARDIMLAŞMA
-
-**“Varlıklar birbirlerine nasıl fayda sağlıyor?”**
-
-Farklı canlılar ve varlıklar aynı sistem içerisinde birbirlerinin hayatına katkıda bulunmaktadır.
-
-➡️ Bu durum **hikmetli bir yardımlaşmayı** düşündürür.
-
-### ✨ TEMİZLİK
-
-**“Kâinat nasıl temizleniyor?”**
-
-Doğada ve canlıların yapısında sürekli temizlenme, dönüşüm ve yenilenme süreçleri görülmektedir.
-
-➡️ Bu durum **Kuddûs** ismini düşündürür.
-
----
-
-# 🌟 ANA MESAJ
-
-> **Kâinata sadece bakmak değil, onu okumak da gerekir.**
-
-Bir canlıya baktığımızda:
-
-**“Neye ihtiyacı var ve ihtiyacı nasıl karşılanıyor?”**
-
-diye sorabiliriz.
-
-➡️ **Şefkat–Rızık**
-
-Doğaya baktığımızda:
-
-**“Varlıklar birbirlerine nasıl fayda sağlıyor?”**
-
-diye sorabiliriz.
-
-➡️ **Yardımlaşma**
-
-Çevremize baktığımızda:
-
-**“Kâinatta temizlik ve dönüşüm nasıl gerçekleşiyor?”**
-
-diye sorabiliriz.
-
-➡️ **Kuddûs**
-
-## 🧠 TEFEKKÜR FORMÜLÜ
-
-> **İHTİYAÇ → ŞEFKAT** ❤️  
-> **YARDIMLAŞMA → HİKMET** 🤝  
-> **TEMİZLİK → KUDDÛS** ✨
-
-Ve bütün bunlar bizi:
-
-> **Kâinattaki düzenin, şefkatin, yardımlaşmanın ve temizliğin arkasındaki Yaratıcı üzerinde düşünmeye götürür.**
+**S1.** Şefkat–Merhamet ve Rızık Delili ne anlatır?
 
 <details>
 <summary>Cevabı gör</summary>
 
-Her canlının ihtiyacının tam zamanında karşılanmasının bir düzenleyicisi olduğunu.
+Canlıların ihtiyaçlarının kendi güçlerinin çok ötesinde, uygun zamanda ve miktarda karşılanmasının bir Şefkat ve Merhamet Sahibini gösterdiğini.
 
 </details>
+
+**S2.** Yardımlaşma Delili'ne doğadan bir örnek ver.
+
+<details>
+<summary>Cevabı gör</summary>
+
+Arının çiçeği döllemesi, ya da solucanların toprağı besleyip madde döngüsüne katkı sağlaması.
+
+</details>
+
+**S3.** Kuddûs ismi ne anlama gelir ve hangi delille ilişkilidir?
+
+<details>
+<summary>Cevabı gör</summary>
+
+Allah'ın her türlü eksiklik ve kusurdan uzak olduğunu ifade eder; kâinattaki sürekli temizlenme ve yenilenme (Temizlik Delili) bu ismi düşündürür.
+
+</details>
+
+## 📄 Veli / Anlatıcı Dökümanı: Detaylı Ders Planı
+
+### İHTİYAÇLARIMIZI KİM KARŞILIYOR?
+
+**Şefkat–Merhamet ve Rızık – Yardımlaşma – Temizlik Delilleri**
+Yaş Grubu: 11–15 yaş · Ders Süresi: 45–60 dakika
+Yöntem: Sorgulama – keşfetme – örneklendirme – tartışma
+
+#### 🎯 Dersin Amacı
+
+Öğrenci bu dersin sonunda: ihtiyaçlarımızın kendi gücümüzün çok ötesinde karşılandığını fark eder, doğadaki yardımlaşmanın hikmetli bir düzene işaret ettiğini kavrar, kâinattaki temizlenme-yenilenme süreçlerinin Kuddûs ismini düşündürdüğünü anlar.
+
+#### 1. Derse Başlayalım: Bir Bebeği Düşünelim
+
+Öğretmen sorar: "Yeni doğmuş bir bebeğin nelere ihtiyacı vardır?" (Yiyecek, su, sıcaklık, sevgi, bakım…) Sonra: "Bebek bunların hangisini kendi başına hazırlayabilir?" — Neredeyse hiçbirini. Buna rağmen ihtiyaçları karşılanır. Bugün bu gözlemi üç açıdan inceleyeceğiz: ihtiyaçlarımız nasıl karşılanıyor (Şefkat–Rızık), varlıklar birbirine nasıl yardım ediyor (Yardımlaşma), kâinat nasıl temizleniyor (Temizlik).
+
+#### 2. Şefkat–Merhamet ve Rızık Delili
+
+Şefkat, başkasının ihtiyacına duyarlı olmak; merhamet, o ihtiyaca karşı yardım hissi; rızık ise canlıların yaşaması için ulaştırılan nimetlerdir. Bir yavru kuş yiyeceğini üretmez, uçmayı bilmez, kendini koruyamaz — ama anne-babası tam vaktinde besin getirir. İnsanın ve diğer canlıların ihtiyacı çok, gücü sınırlıdır; buna rağmen ihtiyaçları uygun zamanda, uygun şekilde ve uygun miktarda karşılanır. Bu durum, ihtiyaçları bilen ve karşılayan bir **Şefkat ve Merhamet Sahibi**ni düşündürür — O da Allah'tır.
+
+*Mini Etkinlik:* Bebek, kuş, arı, bitki, balık gibi canlıların birer ihtiyacını yazın; her birinin ihtiyacının ne kadarını kendi başına karşılayabildiğini tartışın.
+
+#### 3. Yardımlaşma Delili
+
+Bir arı çiçekten beslenirken aynı zamanda çiçeğin tozlaşmasına katkı sağlar. Topraktaki mikroorganizmalar ve solucanlar, düşen yaprakların parçalanıp yeniden doğa döngüsüne katılmasını sağlar. Birbirinden tamamen farklı, hiçbir ortak amacı olmayan canlılar, daha büyük bir sistem içinde birbirine fayda sağlar. Akıl ve şuurdan yoksun bu varlıkların böylesine uyumlu çalışması, perde arkasında hikmetli bir düzenleyiciyi gösterir.
+
+*Mini Etkinlik:* Arı–çiçek, solucan–toprak, yağmur–bitki örneklerinde "kim kime nasıl fayda sağlıyor?" sorusunu birlikte cevaplayın.
+
+#### 4. Temizlik Delili
+
+Eğer doğada hiçbir şey parçalanıp dönüşmeseydi, kalıntılar sürekli birikirdi. Oysa yapraklar, canlı kalıntıları ve atıklar bakteriler, böcekler, rüzgâr ve yağmur aracılığıyla sürekli parçalanır, dönüşür ve yeniden doğaya katılır. Vücudumuzda da kan dolaşımı, akciğerler ve böbrekler sürekli bir denge ve arınma sağlar. Bu sürekli temizlenme ve yenilenme, Allah'ın her türlü eksiklik ve kusurdan uzak olduğunu ifade eden **Kuddûs** ismini düşündürür.
+
+*Mini Etkinlik:* Bir yaprağın sonbahardan sonra ne olduğunu (parçalanma → toprağa karışma → yeni bitkiye katkı) birlikte çizin veya anlatın.
+
+#### 🎮 Mini Oyun: "Hangi Delil?"
+
+Ş = Şefkat–Rızık · Y = Yardımlaşma · T = Temizlik
+
+1. "Yeni doğmuş bir bebeğin ihtiyaçlarının karşılanması." → **Ş**
+2. "Arıların çiçeklerin tozlaşmasına katkı sağlaması." → **Y**
+3. "Ölü yaprakların parçalanıp doğaya katılması." → **T**
+4. "Farklı canlıların aynı sistemde birbirine katkı sağlaması." → **Y**
+
+#### 💬 Sınıf Tartışması
+
+- İhtiyaçlarımızın karşılanması ile şefkat arasında nasıl bir bağ kurabiliriz?
+- Doğadaki temizlik ve dönüşüm hiç olmasaydı neler olurdu?
+- Yardımlaşma ve temizlik bize Allah'ın hangi isimlerini düşündürüyor?
+
+#### ✏️ Çıkış Bileti (5 dk)
+
+1. Şefkat–Rızık Delili bana ne söylüyor?
+2. Yardımlaşma Delili bana ne söylüyor?
+3. Temizlik Delili bana ne söylüyor?
+4. ⭐ Bonus: Hangisi günlük hayatında daha çok dikkatini çekti? Bir örnek ver.
+
+#### 📌 Dersin Özeti
+
+❤️ **Şefkat–Rızık:** İhtiyaçlarımız gücümüzün ötesinde karşılanıyor.
+🤝 **Yardımlaşma:** Farklı varlıklar aynı sistemde birbirine fayda sağlıyor.
+✨ **Temizlik:** Kâinat sürekli temizleniyor ve yenileniyor.
+
+> Kâinata sadece bakmak değil, onu okumak da gerekir — her gözlem bizi Yaratıcı üzerine düşünmeye götürür.
+
+## 📄 Öğrenci Dökümanı: Hap Notlar
+
+### 🧠 3 Delil – Hap Notlar
+
+**❤️ Şefkat–Rızık:** İhtiyacım var, gücüm sınırlı — ama ihtiyacım tam zamanında karşılanıyor. → Beni gözeten bir Şefkat Sahibi var.
+
+**🤝 Yardımlaşma:** Farklı canlılar birbirine farkında olmadan fayda sağlıyor. → Bu uyumu düzenleyen bir Hikmet Sahibi var.
+
+**✨ Temizlik:** Doğa ve bedenim sürekli temizleniyor, yenileniyor. → Bu, Allah'ın **Kuddûs** ismini düşündürür.
+
+#### Süper Kısa Formül
+
+İHTİYAÇ → ŞEFKAT · YARDIMLAŞMA → HİKMET · TEMİZLİK → KUDDÛS
+
+#### Kendini Test Et
+
+## 📄 Öğrenci Dökümanı: Hap Notlar
+
+### 🧠 3 Delil – Hap Notlar
+
+#### ❤️ 1. Şefkat–Merhamet ve Rızık Delili — "İhtiyaçlarımız nasıl karşılanıyor?"
+
+İnsanın ve diğer canlıların ihtiyacı çok, gücü sınırlıdır: 🍎 Yiyecek · 💧 Su · 🌬️ Hava · ❤️ Sevgi · 🛡️ Korunma. Bir bebek ne yiyeceğini bilmez, kendini koruyamaz — ama ihtiyaçları karşılanır.
+
+**Mantık:** Çok fazla ihtiyaç + sınırlı güç → yine de ihtiyaç karşılanıyor → bu, **şefkat ve merhameti** düşündürür. Canlılara ulaşan bu nimetlere **rızık** denir.
+
+➡️ Bu rızıklandırma, Allah'ın **Rahmân ve Rahîm** oluşunu düşündürür.
+
+> ⭐ İhtiyacım çok, gücüm sınırlı; buna rağmen rızkım karşılanıyor.
+
+**ŞEFKAT–RIZIK = İHTİYAÇ → KARŞILANMA**
+
+#### 🤝 2. Yardımlaşma Delili — "Varlıklar birbirine nasıl yardım ediyor?"
+
+Bir arı çiçekten faydalanırken, aynı zamanda çiçeğin tozlaşmasına da katkı sağlar. Topraktaki mikroorganizmalar ve solucanlar, düşen yaprakların parçalanıp yeniden doğa döngüsüne katılmasını sağlar:
+
+🍂 Bitki kalıntısı → 🦠 Canlıların faaliyeti → 🌱 Toprak döngüsü → 🌿 Yeni bitki
+
+**Mantık:** Farklı varlıklar birbirine fayda sağlıyor → büyük bir sistem oluşuyor → bu, **hikmetli bir işleyişi** düşündürür.
+
+➡️ Bu hikmet, Allah'ın yaratmasını ve hikmetini düşündürür.
+
+> ⭐ Kâinatta varlıklar birbirinin hayatına katkı sağlıyor.
+
+**YARDIMLAŞMA = VARLIKLAR → BİRBİRİNE FAYDA**
+
+#### ✨ 3. Temizlik Delili — "Kâinat nasıl temizleniyor?"
+
+Doğada sürekli temizlenme, dönüşüm ve yenilenme var. Düşen bir yaprak, mikroorganizmalar sayesinde parçalanır ve maddeleri doğaya yeniden katılır. Bu sürece 🦠 bakteriler, 🐜 karıncalar, 💨 rüzgâr, 🌧️ yağmur katkı sağlar. Vücudumuzda da akciğerler, kan dolaşımı ve böbrekler benzer bir dengeyi korur.
+
+**Mantık:** Temizlik → dönüşüm → yenilenme → bu, Allah'ın her eksiklikten uzak oluşunu ifade eden **Kuddûs** ismini düşündürür.
+
+> ⭐ Kâinattaki temizlik ve arınma, Kuddûs ismini düşündürür.
+
+**TEMİZLİK = NEZAFET → KUDDÛS**
+
+#### 🎯 3 Delili Tek Tabloda Ezberle
+
+| Delil | Tek soru | Anahtar kelime |
+| --- | --- | --- |
+| ❤️ Şefkat–Rızık | İhtiyaçlarımız nasıl karşılanıyor? | İhtiyaç |
+| 🤝 Yardımlaşma | Varlıklar birbirine nasıl fayda sağlıyor? | Yardım |
+| ✨ Temizlik | Kâinat nasıl temizleniyor? | Kuddûs |
+
+#### 🧠 Süper Kısa Formül
+
+**ŞEFKAT → RIZIK:** İhtiyaçlarımız karşılanıyor → şefkat ve merhameti düşündürür.
+**YARDIMLAŞMA → HİKMET:** Varlıklar birbirine katkı sağlıyor → hikmetli bir sistemi düşündürür.
+**TEMİZLİK → KUDDÛS:** Kâinatta temizlik ve dönüşüm var → Kuddûs ismini düşündürür.
+
+#### ⭐ Üçü Birlikte
+
+> İHTİYAÇ → YARDIM → TEMİZLİK
+> Şefkat–Rızık → Yardımlaşma → Temizlik
+
+#### 📝 Kendini Test Et
+
+1. Rızık ne demektir? → Canlıların ihtiyaçlarını karşılayan nimetler.
+2. Bir bebeğin kendi ihtiyacını karşılayamamasına rağmen ihtiyacının karşılanması hangi delili düşündürür? → Şefkat–Merhamet ve Rızık.
+3. Arıların çiçekleri döllemesi hangi delille ilgilidir? → Yardımlaşma.
+4. Yaprakların parçalanıp doğa döngüsüne katılması hangi delili düşündürür? → Temizlik.
+5. Kâinattaki temizlik ve nezafet hangi ismi düşündürür? → Kuddûs.
+
+#### 🏆 Tek Cümlelik Özet
+
+**Şefkat–Rızık:** İhtiyaçlarım çok, gücüm sınırlı → rızkım karşılanıyor.
+**Yardımlaşma:** Varlıklar birbirine fayda sağlıyor → hikmetli bir sistem görünüyor.
+**Temizlik:** Kâinatta temizlik ve dönüşüm var → Kuddûs ismini düşündürüyor.
+
+> Kâinatta gördüğüm her ihtiyaç, her yardımlaşma ve her temizlik sadece bir olay değil; Allah'ın isimlerini ve kudretini düşündüren bir işaret olabilir.
+
+1. Rızık ne demektir? → Canlıların yaşaması için ulaştırılan nimetler.
+2. Yardımlaşma Delili'ne bir örnek: → Arı–çiçek, solucan–toprak.
+3. Kuddûs ismi ne anlatır? → Allah'ın her eksiklikten uzak oluşu.
