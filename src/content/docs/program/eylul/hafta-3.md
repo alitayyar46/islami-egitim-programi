@@ -1,6 +1,6 @@
 ---
 title: "Şefkat–Merhamet ve Rızık – Yardımlaşma – Temizlik Delilleri"
-description: 'Kâinattaki şefkat, yardımlaşma ve temizlik"
+description: "Kâinattaki şefkat, yardımlaşma ve temizlik"
 etiket: "1. Ay (Eylül) · 3. Hafta"
 konu: "Allah'ın Varlığına Dair Deliller"
 lastUpdated: 2026-09-24
