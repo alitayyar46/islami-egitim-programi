@@ -1,8 +1,8 @@
 ---
-title: "İçimizdeki Ses ve Kâinattaki Düzen (Fıtrat, Nizam, Hayat Delilleri)"
+title: "Allah'ın Varlığını Anlamaya Yolculuk (İmkân – Hudûs – Hayat Delilleri)"
 description: "Her insanın içinde doğuştan gelen bir Yaratıcıya inanma eğilimi vardır (fıtrat). Gezegenlerin düzeni, mevsimlerin sırası, tohumdan ağacın çıkması kusursuz…"
 sidebar:
-  label: "1. Hafta: İçimizdeki Ses ve Kâinattaki Düzen (Fıtrat, Nizam, Hayat Delilleri)"
+  label: "1. Hafta: Allah'ın Varlığını Anlamaya Yolculuk (Fıtrat, Nizam, Hayat Delilleri)"
   order: 1
 ---
 
