@@ -11,8 +11,8 @@ Yılın ilk ayında, ergenlik çağında sıkça gelen 'Nereden biliyoruz?', 'Te
 
 ## Haftalar
 
-- [1. Hafta: İçimizdeki Ses ve Kâinattaki Düzen (Fıtrat, Nizam, Hayat Delilleri)](/program/ay-01-eylul/hafta-1/)
-- [2. Hafta: Hiçbir Şey Kendiliğinden Var Olmaz (Hudûs, İmkân, Sanat, Hikmet-Gaye)](/program/ay-01-eylul/hafta-2/)
+- [1. Hafta: Allah'ın Varlığını Anlamaya Yolculuk (İmkan, Hudus, Hayat Delilleri)](/program/ay-01-eylul/hafta-1/)
+- [2. Hafta: Hiçbir Şey Kendiliğinden Var Olmaz (Hudûs, İntizam, Sanat, Hikmet-Gaye)](/program/ay-01-eylul/hafta-2/)
 - [3. Hafta: Tesadüf mü, Yaratıcı mı? (Dört İhtimal, Şefkat-Rızık, Yardımlaşma, Sevk-i İlahi)](/program/ay-01-eylul/hafta-3/)
 - [4. Hafta: Allah Birdir: Tevhid, Fıtrat-Tarih, Duygular, İttifak, Kur'an-Peygamberler](/program/ay-01-eylul/hafta-4/)
 
