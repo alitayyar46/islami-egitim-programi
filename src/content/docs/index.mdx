@@ -2,20 +2,14 @@
 title: 11-15 Yaş Aile İçi İslami Eğitim Programı
 description: 11-15 yaş arası çocuklar için düzenli okumayı, düşünmeyi ve öğrenmeyi destekleyen 12 aylık aile içi İslami eğitim programı.
 template: splash
-hero:
-  tagline: Düzenli okumayı, düşünmeyi ve öğrenmeyi destekleyen İslami eğitim içerikleri.
-  actions:
-    - text: İlk dersten başla
-      link: /program/eylul/hafta-1/
-      variant: primary
-    - text: Kullanım kılavuzu
-      link: /kilavuz/
-      variant: secondary
 ---
 
+import Hero from '../../components/Hero.astro';
 import AramaDugmesi from '../../components/AramaDugmesi.astro';
 import AyListesi from '../../components/AyListesi.astro';
 import GuncelIcerikler from '../../components/GuncelIcerikler.astro';
+
+<Hero />
 
 <AramaDugmesi />
 
@@ -33,7 +27,7 @@ Programı uygulayan ebeveynler, öğretmenler ve anlatıcılar ile 11-15 yaş ar
 
 ## Aylık program
 
-Hazır olan ayların yanında "Hazır", içeriği hazırlanmakta olanların yanında "Hazırlanıyor" yazar.
+Hazır olan ayların yanında "Hazır", içeriği hazırlanmakta olanların yanında "Yakında" yazar.
 
 <AyListesi />
 
